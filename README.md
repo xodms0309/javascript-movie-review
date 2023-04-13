@@ -1,4 +1,4 @@
-<h1 align="middle">🍴</h1>
+<h1 align="middle">📺</h1>
 <h2 align="middle">level1 - 영화 리뷰 미션</h2>
 <p align="middle">자바스크립트로 구현하는 영화관 웹앱</p>
 
